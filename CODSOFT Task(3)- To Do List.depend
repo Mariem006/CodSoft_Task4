@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1721505962 source:c:\users\user\documents\files code\codsoft task(3)- to do list\main.cpp
+	<iostream>
+	<tasks.h>
+	<limits>
+	<sstream>
+
+1721505774 c:\users\user\documents\files code\codsoft task(3)- to do list\include\tasks.h
+	<string>
+
+1721505791 source:c:\users\user\documents\files code\codsoft task(3)- to do list\src\tasks.cpp
+	"Tasks.h"
+	<iostream>
+
